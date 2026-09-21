@@ -2,8 +2,7 @@
 
 ## 1. Executive Summary & Pipeline Overview
 
-The **AI-Powered Document Screening Platform** is an enterprise-grade hybrid computer vision and cryptographic ledger system engineered for border control checkpoints. It processes multi-modal inputs—scanning physical travel documents alongside live passenger camera captures—to automate layout-agnostic segmentation, optical character recognition (OCR), multi-layered forgery detection, and biometric 1:1 face verification. The platform ensures zero-trust data integrity by coupling high-throughput neural inference with an immutable, permissioned consortium blockchain ledger.
-
+The **AI-Powered Document Screening Platform** is a hybrid computer vision and cryptographic ledger system engineered. It processes multi-modal inputs—scanning physical travel documents alongside live passenger camera captures—to automate layout-agnostic segmentation, optical character recognition (OCR), multi-layered forgery detection, and biometric 1:1 face verification. 
 ---
 
 ## 2. Stage-by-Stage Module Specifications
